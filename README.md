@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=masterdodo&show_icons=true&hide_border=true&count_private=true">
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=masterdodo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
