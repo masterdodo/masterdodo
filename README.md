@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/masterdodo/masterdodo/main/.github/images/gh-hand-wave.gif" height="30">, I'm David</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/masterdodo/masterdodo/main/.github/images/gh-hand-wave.gif" height="40">, I'm David</h1>
 <h3 align="center">Fullstack developer from Slovenia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterdodo&label=Profile%20visits&color=9638c2&style=flat" alt="masterdodo" /> </p>
