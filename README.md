@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=masterdodo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,contribs">
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=masterdodo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=prs,contribs">
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterdodo&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterdodo&layout=compact&theme=tokyonight&hide_border=true&count_private=true">
