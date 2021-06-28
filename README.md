@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey I'm David 👋 
 
 - 🔭 I’m currently working on a Discord bot and Flutter app
 - 🌱 I’m currently learning multiple JS frameworks and Flutter
