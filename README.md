@@ -1,4 +1,4 @@
-## Hey I'm David 👋 <img src="https://raw.githubusercontent.com/masterdodo/masterdodo/main/.github/images/gh-hand-wave.gif">
+## Hey I'm David <img src="https://raw.githubusercontent.com/masterdodo/masterdodo/main/.github/images/gh-hand-wave.gif" height="30">
 - 🔭 I’m currently working on a Discord bot and Flutter app
 - 🌱 I’m currently learning multiple JS frameworks and Flutter
 - 📫 How to reach me: [My Website](https://aristovnik.com)
